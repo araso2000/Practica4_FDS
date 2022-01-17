@@ -1,0 +1,465 @@
+
+DIMENSIONES DEL TABLERO - Ancho:3 - Alto:3
+Hay solucion ABIERTA? false
+	0	1	2	
+
+0	0	0	0	
+1	0	0	0	
+2	0	0	0	
+Tiempo de ejecución ABIERTO: 68300 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	
+
+0	0	0	0	
+1	0	0	0	
+2	0	0	0	
+Tiempo de ejecución CERRADO: 2462000 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:4 - Alto:4
+Hay solucion ABIERTA? false
+	0	1	2	3	
+
+0	0	0	0	0	
+1	0	0	0	0	
+2	0	0	0	0	
+3	0	0	0	0	
+Tiempo de ejecución ABIERTO: 5419300 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	3	
+
+0	0	0	0	0	
+1	0	0	0	0	
+2	0	0	0	0	
+3	0	0	0	0	
+Tiempo de ejecución CERRADO: 5499700 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:5 - Alto:5
+Hay solucion ABIERTA? true
+	0	1	2	3	4	
+
+0	21	18	3	12	1	
+1	8	13	20	17	4	
+2	19	22	7	2	11	
+3	14	9	24	5	16	
+4	23	6	15	10	25	
+Tiempo de ejecución ABIERTO: 3965000 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	3	4	
+
+0	0	0	0	0	0	
+1	0	0	0	0	0	
+2	0	0	0	0	0	
+3	0	0	0	0	0	
+4	0	0	0	0	0	
+Tiempo de ejecución CERRADO: 2449176200 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:6 - Alto:6
+Hay solucion ABIERTA? true
+	0	1	2	3	4	5	
+
+0	23	30	13	6	1	4	
+1	32	15	24	3	12	7	
+2	29	22	31	14	5	2	
+3	16	33	18	25	8	11	
+4	21	28	35	10	19	26	
+5	34	17	20	27	36	9	
+Tiempo de ejecución ABIERTO: 647000000 nanosegundos 
+
+Hay solucion CERRADA? true
+	0	1	2	3	4	5	
+
+0	35	16	13	6	1	4	
+1	14	27	36	3	12	7	
+2	17	34	15	26	5	2	
+3	28	25	30	21	8	11	
+4	33	18	23	10	31	20	
+5	24	29	32	19	22	9	
+Tiempo de ejecución CERRADO: 647004100 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:3 - Alto:10
+Hay solucion ABIERTA? true
+	0	1	2	3	4	5	6	7	8	9	
+
+0	25	22	27	14	1	16	19	8	3	6	
+1	30	13	24	21	28	11	2	5	18	9	
+2	23	26	29	12	15	20	17	10	7	4	
+Tiempo de ejecución ABIERTO: 843600 nanosegundos 
+
+Hay solucion CERRADA? true
+	0	1	2	3	4	5	6	7	8	9	
+
+0	27	24	21	14	1	16	19	8	3	6	
+1	22	13	26	29	20	11	2	5	18	9	
+2	25	28	23	12	15	30	17	10	7	4	
+Tiempo de ejecución CERRADO: 2833600 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:3 - Alto:12
+Hay solucion ABIERTA? true
+	0	1	2	3	4	5	6	7	8	9	10	11	
+
+0	31	34	21	24	1	26	15	18	3	6	9	12	
+1	36	23	32	29	20	17	2	27	14	11	4	7	
+2	33	30	35	22	25	28	19	16	5	8	13	10	
+Tiempo de ejecución ABIERTO: 163600 nanosegundos 
+
+Hay solucion CERRADA? true
+	0	1	2	3	4	5	6	7	8	9	10	11	
+
+0	27	24	21	34	1	32	15	18	3	6	9	12	
+1	22	35	26	29	20	17	2	31	14	11	4	7	
+2	25	28	23	36	33	30	19	16	5	8	13	10	
+Tiempo de ejecución CERRADO: 271100 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:5 - Alto:6
+Hay solucion ABIERTA? true
+	0	1	2	3	4	5	
+
+0	17	26	21	6	1	4	
+1	20	11	18	3	22	7	
+2	27	16	25	12	5	2	
+3	10	19	14	29	8	23	
+4	15	28	9	24	13	30	
+Tiempo de ejecución ABIERTO: 20780600 nanosegundos 
+
+Hay solucion CERRADA? true
+	0	1	2	3	4	5	
+
+0	29	16	5	20	1	14	
+1	6	25	30	15	10	21	
+2	17	28	19	4	13	2	
+3	24	7	26	11	22	9	
+4	27	18	23	8	3	12	
+Tiempo de ejecución CERRADO: 1845346000 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:3 - Alto:4
+Hay solucion ABIERTA? true
+	0	1	2	3	
+
+0	1	4	7	10	
+1	12	9	2	5	
+2	3	6	11	8	
+Tiempo de ejecución ABIERTO: 2100 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	3	
+
+0	0	0	0	0	
+1	0	0	0	0	
+2	0	0	0	0	
+Tiempo de ejecución CERRADO: 46500 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:3 - Alto:5
+Hay solucion ABIERTA? false
+	0	1	2	3	4	
+
+0	0	0	0	0	0	
+1	0	0	0	0	0	
+2	0	0	0	0	0	
+Tiempo de ejecución ABIERTO: 355800 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	3	4	
+
+0	0	0	0	0	0	
+1	0	0	0	0	0	
+2	0	0	0	0	0	
+Tiempo de ejecución CERRADO: 346900 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:3 - Alto:6
+Hay solucion ABIERTA? false
+	0	1	2	3	4	5	
+
+0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+Tiempo de ejecución ABIERTO: 1674800 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	3	4	5	
+
+0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+Tiempo de ejecución CERRADO: 1707600 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:3 - Alto:8
+Hay solucion ABIERTA? true
+	0	1	2	3	4	5	6	7	
+
+0	11	8	13	16	1	4	23	20	
+1	14	17	10	7	22	19	2	5	
+2	9	12	15	18	3	6	21	24	
+Tiempo de ejecución ABIERTO: 138200 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	3	4	5	6	7	
+
+0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	
+2	0	0	0	0	0	0	0	0	
+Tiempo de ejecución CERRADO: 58633700 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:4 - Alto:6
+Hay solucion ABIERTA? true
+	0	1	2	3	4	5	
+
+0	9	14	7	22	1	18	
+1	12	23	10	19	4	21	
+2	15	8	13	6	17	2	
+3	24	11	16	3	20	5	
+Tiempo de ejecución ABIERTO: 18402000 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	3	4	5	
+
+0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	
+2	0	0	0	0	0	0	
+3	0	0	0	0	0	0	
+Tiempo de ejecución CERRADO: 617659100 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:4 - Alto:3
+Hay solucion ABIERTA? true
+	0	1	2	
+
+0	1	8	3	
+1	4	11	6	
+2	7	2	9	
+3	10	5	12	
+Tiempo de ejecución ABIERTO: 9800 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	
+
+0	0	0	0	
+1	0	0	0	
+2	0	0	0	
+3	0	0	0	
+Tiempo de ejecución CERRADO: 40200 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:5 - Alto:3
+Hay solucion ABIERTA? false
+	0	1	2	
+
+0	0	0	0	
+1	0	0	0	
+2	0	0	0	
+3	0	0	0	
+4	0	0	0	
+Tiempo de ejecución ABIERTO: 294100 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	
+
+0	0	0	0	
+1	0	0	0	
+2	0	0	0	
+3	0	0	0	
+4	0	0	0	
+Tiempo de ejecución CERRADO: 293700 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:6 - Alto:3
+Hay solucion ABIERTA? false
+	0	1	2	
+
+0	0	0	0	
+1	0	0	0	
+2	0	0	0	
+3	0	0	0	
+4	0	0	0	
+5	0	0	0	
+Tiempo de ejecución ABIERTO: 1548100 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	
+
+0	0	0	0	
+1	0	0	0	
+2	0	0	0	
+3	0	0	0	
+4	0	0	0	
+5	0	0	0	
+Tiempo de ejecución CERRADO: 1561300 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:8 - Alto:3
+Hay solucion ABIERTA? true
+	0	1	2	
+
+0	1	12	5	
+1	4	9	2	
+2	11	6	13	
+3	8	3	10	
+4	23	14	7	
+5	20	17	22	
+6	15	24	19	
+7	18	21	16	
+Tiempo de ejecución ABIERTO: 39400 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	
+
+0	0	0	0	
+1	0	0	0	
+2	0	0	0	
+3	0	0	0	
+4	0	0	0	
+5	0	0	0	
+6	0	0	0	
+7	0	0	0	
+Tiempo de ejecución CERRADO: 52608600 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:6 - Alto:4
+Hay solucion ABIERTA? true
+	0	1	2	3	
+
+0	1	6	15	18	
+1	14	17	2	5	
+2	7	4	19	16	
+3	22	13	10	3	
+4	11	8	23	20	
+5	24	21	12	9	
+Tiempo de ejecución ABIERTO: 1269300 nanosegundos 
+
+Hay solucion CERRADA? false
+	0	1	2	3	
+
+0	0	0	0	0	
+1	0	0	0	0	
+2	0	0	0	0	
+3	0	0	0	0	
+4	0	0	0	0	
+5	0	0	0	0	
+Tiempo de ejecución CERRADO: 629246400 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:6 - Alto:5
+Hay solucion ABIERTA? true
+	0	1	2	3	4	
+
+0	19	10	3	22	1	
+1	28	23	20	9	4	
+2	11	18	27	2	21	
+3	24	29	14	5	8	
+4	17	12	7	26	15	
+5	30	25	16	13	6	
+Tiempo de ejecución ABIERTO: 91596000 nanosegundos 
+
+Hay solucion CERRADA? true
+	0	1	2	3	4	
+
+0	29	20	11	4	1	
+1	12	3	30	21	10	
+2	19	28	9	2	5	
+3	8	13	24	17	22	
+4	27	18	15	6	25	
+5	14	7	26	23	16	
+Tiempo de ejecución CERRADO: 1865818000 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:10 - Alto:3
+Hay solucion ABIERTA? true
+	0	1	2	
+
+0	1	12	5	
+1	4	15	2	
+2	13	6	11	
+3	16	3	14	
+4	27	10	7	
+5	8	17	28	
+6	29	26	9	
+7	20	23	18	
+8	25	30	21	
+9	22	19	24	
+Tiempo de ejecución ABIERTO: 10081200 nanosegundos 
+
+Hay solucion CERRADA? true
+	0	1	2	
+
+0	1	26	29	
+1	28	7	2	
+2	25	30	27	
+3	8	3	6	
+4	5	24	19	
+5	20	9	4	
+6	23	18	21	
+7	12	15	10	
+8	17	22	13	
+9	14	11	16	
+Tiempo de ejecución CERRADO: 64716400 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+DIMENSIONES DEL TABLERO - Ancho:12 - Alto:3
+Hay solucion ABIERTA? true
+	0	1	2	
+
+0	1	12	5	
+1	4	9	2	
+2	11	6	13	
+3	8	3	10	
+4	19	14	7	
+5	16	23	18	
+6	25	20	15	
+7	22	17	24	
+8	35	26	21	
+9	32	29	34	
+10	27	36	31	
+11	30	33	28	
+Tiempo de ejecución ABIERTO: 60894100 nanosegundos 
+
+Hay solucion CERRADA? true
+	0	1	2	
+
+0	1	32	35	
+1	34	7	2	
+2	31	36	33	
+3	8	3	6	
+4	5	30	9	
+5	18	15	4	
+6	29	10	17	
+7	16	19	14	
+8	13	28	11	
+9	22	25	20	
+10	27	12	23	
+11	24	21	26	
+Tiempo de ejecución CERRADO: 1659279300 nanosegundos 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
